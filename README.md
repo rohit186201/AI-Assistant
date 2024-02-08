@@ -15,17 +15,14 @@ Installation
 Clone the repository:
 
 bash
-Copy code
 git clone https://github.com/your-username/voice-assistant.git
 Install the required packages:
 
 bash
-Copy code
 pip install pyttsx3 SpeechRecognition wikipedia-api
 Create a file named config.py and add your email password:
 
 python
-Copy code
 password = "your_email_password"
 Replace "your_email_password" with the actual password.
 
